@@ -1,0 +1,6 @@
+Toronto  8.334c
+Lima  18.8904c
+Istanbul  13.89c
+Lagos  27.2244c
+Shanghai  16.1124c
+Sydney  17.7792c
