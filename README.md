@@ -1,2 +1,2 @@
-# SNHU C++
+# SNHU CS-210
 This is a collection of work from CS-210 Programming Languages
